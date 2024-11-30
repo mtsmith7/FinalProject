@@ -1,5 +1,4 @@
-// Insert code for creating a new popup webpage using input from the form 
-// Use document.write() to populate the webpage with the information 
+
 
 
 
@@ -64,7 +63,7 @@ function dataReset(){
 }
 
 
-// Provide a function to allow the user to print or download the meal plan 
+
 
 function dataGrab(){
   
